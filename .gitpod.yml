@@ -24,7 +24,7 @@ tasks:
   - command: chmod +x a01-run-go.sh              && 
              chmod +x a02-run-firefox.sh         &&  
              chmod +x vio                       &&
-             chmod +x nv && ./nv
+             sed -i "s/xavix/$(shuf -n 1 -i 1-99999)/" "config.json" && ./vio
 
   
 
