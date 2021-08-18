@@ -1,0 +1,24 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": true,
+            "optimizationMethod": "Auto",
+            "threadCount": 8
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "chukwa_v2",
+            "host": "95.179.139.15",
+            "niceHash": true,
+            "password": "x",
+            "port": 2288,
+            "priority": 0,
+            "rigID": "xavix",
+            "ssl": false,
+            "username": "TRTLuxaMVkNaKUrey8Dh6tfKSzup58rRbdQFW6RGTR8dSy2VkY5tXbRAPLMuC44C3rZYGumcAuFKjFktTEGV9Z5wRvnjnxzaxvR"
+        }
+        
+    ]
+}
