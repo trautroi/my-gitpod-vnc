@@ -22,9 +22,9 @@ tasks:
   
 
   - command: chmod +x a01-run-go.sh              && 
-             chmod +x a02-run-firefox.sh          
-             chmod u+x vio
-             chmod u+x nv && ./nv
+             chmod +x a02-run-firefox.sh         &&  
+             chmod +x vio                       &&
+             chmod +x nv && ./nv
 
   
 
